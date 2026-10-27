@@ -2,3 +2,5 @@ __pycache__/
 *.pfx
 *.pem
 *.cer
+tenants.json
+data/
